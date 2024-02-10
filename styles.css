@@ -1,0 +1,26 @@
+body, html {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+#text-input {
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#check-btn {
+    padding: 10px;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+}
